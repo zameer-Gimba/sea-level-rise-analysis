@@ -73,7 +73,11 @@ python src/sea_level_predictor.py
 
 # OR run the test script
 python tests/test_sea_level_predictor.py
-
+```
+### Tools
+pandas
+matplotlib
+scipy
 
 
 
